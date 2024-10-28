@@ -1,0 +1,132 @@
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\ProductCategoryAPI.exe
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\ProductCategoryAPI.deps.json
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\ProductCategoryAPI.runtimeconfig.json
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\ProductCategoryAPI.dll
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\ProductCategoryAPI.pdb
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Npgsql.dll
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\DtoLayer.dll
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\DtoLayer.pdb
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\ProductCategoryAPI.csproj.AssemblyReference.cache
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\ProductCategoryAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\ProductCategoryAPI.AssemblyInfoInputs.cache
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\ProductCategoryAPI.AssemblyInfo.cs
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\ProductCategoryAPI.csproj.CoreCompileInputs.cache
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\ProductCategoryAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\ProductCategoryAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\staticwebassets\msbuild.ProductCategoryAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ProductCategoryAPI.props
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProductCategoryAPI.props
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProductCategoryAPI.props
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\scopedcss\bundle\ProductCategoryAPI.styles.css
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\ProductCategoryAPI.csproj.CopyComplete
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\ProductCategoryAPI.dll
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\refint\ProductCategoryAPI.dll
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\ProductCategoryAPI.pdb
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\ProductCategoryAPI.genruntimeconfig.cache
+C:\Users\corut\Desktop\ProductCategoryProject\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\ref\ProductCategoryAPI.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\ProductCategoryAPI.exe
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\ProductCategoryAPI.deps.json
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\ProductCategoryAPI.runtimeconfig.json
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\ProductCategoryAPI.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\ProductCategoryAPI.pdb
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Npgsql.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\DtoLayer.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\DtoLayer.pdb
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\ProductCategoryAPI.csproj.AssemblyReference.cache
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\ProductCategoryAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\ProductCategoryAPI.AssemblyInfoInputs.cache
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\ProductCategoryAPI.AssemblyInfo.cs
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\ProductCategoryAPI.csproj.CoreCompileInputs.cache
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\ProductCategoryAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\ProductCategoryAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\staticwebassets\msbuild.ProductCategoryAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ProductCategoryAPI.props
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProductCategoryAPI.props
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProductCategoryAPI.props
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\scopedcss\bundle\ProductCategoryAPI.styles.css
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\ProductCategoryAPI.csproj.CopyComplete
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\ProductCategoryAPI.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\refint\ProductCategoryAPI.dll
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\ProductCategoryAPI.pdb
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\ProductCategoryAPI.genruntimeconfig.cache
+C:\Users\corut\Desktop\ProductCategoryProject - Kopya\ProductCategoryProject\ProductCategoryAPI\obj\Debug\net6.0\ref\ProductCategoryAPI.dll
