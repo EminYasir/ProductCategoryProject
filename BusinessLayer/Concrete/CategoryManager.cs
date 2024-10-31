@@ -1,17 +1,10 @@
-﻿using AutoMapper;
+using AutoMapper;
 using BusinessLayer.Abstract;
 using DataAccessLayer.Abstract;
 using DataAccessLayer.Concrete;
-using DataAccessLayer.EntityFramework;
 using DtoLayer.DTOs.CategoryDto;
-using DtoLayer.DTOs.ProductDto;
 using EntityLayer.Models;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace BusinessLayer.Concrete
 {
@@ -57,36 +50,39 @@ namespace BusinessLayer.Concrete
 
         public List<CategoryDto> CategoryWithProductCount()
         {
-            var results = _context.Categories.Include(x => x.Products).ToList();
-            var categoryDtos = _mapper.Map<List<CategoryDto>>(results).ToList();
-            foreach (var dto in categoryDtos)
-            {
-                dto.ProductCount = results.FirstOrDefault(c => c.Id == dto.Id)?.Products.Count() ?? 0;
-            }
+            var categoryWithProducts = _context.Categories.Include(x => x.Products).ToList();
+            var categoryDtos = _mapper.Map<List<CategoryDto>>(categoryWithProducts).ToList();
+            //var results = categoryWithProducts.Select(x => x.Products.Count()).ToList();
+
+            //foreach (var dto in categoryDtos)
+            //{
+            //    dto.ProductCount = results.FirstOrDefault(c => c.Id == dto.Id)?.Products.Count() ?? 0;
+            //}
             return categoryDtos;
         }
 
         public List<CategoryListWithCheapestProduct> CategoryWithCheapestPriceProduct()
         {
 
-            var category = _context.Categories.ToList();
-            var categoryProductDtos = _mapper.Map<List<CategoryListWithCheapestProduct>>(category).ToList();
-            foreach (var categoryProduct in categoryProductDtos)
-            {
-                //var lowestPrice = _context.Products.Where(x=>x.CategoryId== categoryProduct.Id).Min(x => x.Price);
-                //var lowestPriceProduct = _context.Products.Where(x => x.Price == lowestPrice).ToList();
-                //var productDtos = _mapper.Map<List<ProductDto>>(lowestPriceProduct).ToList();
-                var lowestPriceProduct = _context.Products
-                                         .Where(x => x.CategoryId == categoryProduct.Id)
-                                         .OrderBy(x => x.Price)
-                                         .FirstOrDefault();
-                if (lowestPriceProduct != null)
-                {
-                    categoryProduct.productId = lowestPriceProduct.Id;
-                    categoryProduct.productName = lowestPriceProduct.Name;
-                    categoryProduct.productPrice = lowestPriceProduct.Price;
-                }
-            }
+            var categoryWithProducts = _context.Categories.Include(x=>x.Products).ToList();
+            var categoryWithMinPriceProducts = categoryWithProducts.Select(x => x.Products.OrderBy(p=>p.Price).FirstOrDefault()).ToList();
+            var categoryProductDtos = _mapper.Map<List<CategoryListWithCheapestProduct>>(categoryWithMinPriceProducts).ToList();
+            //foreach (var categoryProduct in categoryProductDtos)
+            //{
+            //    //var lowestPrice = _context.Products.Where(x=>x.CategoryId== categoryProduct.Id).Min(x => x.Price);
+            //    //var lowestPriceProduct = _context.Products.Where(x => x.Price == lowestPrice).ToList();
+            //    //var productDtos = _mapper.Map<List<ProductDto>>(lowestPriceProduct).ToList();
+            //    var lowestPriceProduct = _context.Products
+            //                             .Where(x => x.CategoryId == categoryProduct.Id)
+            //                             .OrderBy(x => x.Price)
+            //                             .FirstOrDefault();
+            //    if (lowestPriceProduct != null)
+            //    {
+            //        categoryProduct.productId = lowestPriceProduct.Id;
+            //        categoryProduct.productName = lowestPriceProduct.Name;
+            //        categoryProduct.productPrice = lowestPriceProduct.Price;
+            //    }
+            //}
             return categoryProductDtos;
         }
     }
