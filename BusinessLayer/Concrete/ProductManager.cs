@@ -1,16 +1,10 @@
-﻿using AutoMapper;
+using AutoMapper;
 using BusinessLayer.Abstract;
 using DataAccessLayer.Abstract;
 using DataAccessLayer.Concrete;
-using DataAccessLayer.EntityFramework;
-using DtoLayer.DTOs.CategoryDto;
 using DtoLayer.DTOs.ProductDto;
 using EntityLayer.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 
 namespace BusinessLayer.Concrete
 {
@@ -29,13 +23,14 @@ namespace BusinessLayer.Concrete
 
         public List<ProductDto> ProductsWithCategoryInfos()
         {
-            var products = _context.Products.ToList();
-            var category=_context.Categories.ToList();
-            var productDtos = _mapper.Map<List<ProductDto>>(products).ToList();
-            foreach (var dto in productDtos)
-            {
-                dto.CategoryName = category.FirstOrDefault(x => x.Id == dto.CategoryId).CategoryName;
-            }
+            //var products = _context.Products.ToList();
+            var productsWithCategory = _context.Products.Include(x=>x.Category).ToList();
+            //var category=_context.Categories.ToList();
+            var productDtos = _mapper.Map<List<ProductDto>>(productsWithCategory).ToList();
+            //foreach (var dto in productDtos)
+            //{
+            //    dto.CategoryName = category.FirstOrDefault(x => x.Id == dto.CategoryId).CategoryName;
+            //}
             return productDtos;
         }
 
